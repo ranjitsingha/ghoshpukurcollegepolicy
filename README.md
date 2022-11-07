@@ -14,12 +14,12 @@ We never ask for credit card numbers. <br>
 We do not use Malware Scanning. <br>
 We do not use an SSL certificate. <br>
 
-### <b>Link to other sites<b>
+### <b>Link to other sites </b>
 This App may contain links to other sites. If you click on a third-party link, you will be directed to that site. <br><br>
 Note that these external sites are not operated by us. Therefore, I strongly advise you to review the Privacy Policy of these websites. <br><br>
 I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-### <b>What personal information do we collect and what Third-party services and Providers we use
+### <b>What personal information do we collect and what Third-party services and Providers we use </b>
 We collect several different types of information for various purposes to provide and improve our Service to you.
 
 
