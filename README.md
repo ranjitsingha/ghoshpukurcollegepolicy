@@ -21,12 +21,10 @@ I have no control over and assume no responsibility for the content, privacy pol
 
 ### <b>What personal information do we collect and what Third-party services and Providers we use </b>
 We collect several different types of information for various purposes to provide and improve our Service to you.
-
-
-
 We use third party services and service providers which may collect information to provide functionality in app.
 - <a href="https://policies.google.com/privacy">Google Play Services</a>
-- #### <b> Advertising</b>
+
+### <b> Advertising</b>
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.<br><br>
 Link to privacy policy of third party services and learn what types of data they collect: <br>
 <a href="https://unity3d.com/legal/privacy-policy">UNITY</a>
