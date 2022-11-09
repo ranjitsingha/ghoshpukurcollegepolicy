@@ -37,7 +37,7 @@ We may use and store information about your location if you give us permission t
 You can enable or disable location services when you use our Service at any time by way of your device settings.
 
 ### - Use of Data
-Sketchub uses the collected data for various purposes:
+Ghoshpukur College App uses the collected data for various purposes:
 1. to provide and maintain our Service; <br>
 2. to notify you about changes to our Service; <br>
 3. to allow you to participate in interactive features of our Service when you choose to do so; <br>
