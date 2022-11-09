@@ -27,9 +27,9 @@ We use third party services and service providers which may collect information 
 ### <b> Types of Data Collected </b>
 ### - Personal Data
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”).
-1. Email Address
-2. First Name and Last Name
-3. Device id's
+1. Email Address <br>
+2. First Name and Last Name <br>
+3. Device id's <br>
 We may use Personal Data for the functioning of the app or to show you ads.
 
 ### - Location Data
